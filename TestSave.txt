@@ -1,0 +1,129 @@
+1x C Benalish Hero
+1x U Black Ward
+1x U Blue Ward
+2x C Circle of Protection: Blue
+1x C Circle of Protection: Green
+6x C Circle of Protection: Red
+2x C Circle of Protection: White
+2x U Consecrate Land
+3x C Death Ward
+3x C Disenchant
+1x U Green Ward
+4x C Holy Armor
+1x U Lance
+3x C Mesa Pegasus
+1x R Personal Incarnation
+1x U Resurrection
+3x C Samite Healer
+1x U Serra Angel
+2x U Swords to Plowshares
+1x U Wall of Swords
+1x U Air Elemental
+4x C Blue Elemental Blast
+1x U Clone
+1x U Feedback
+3x C Flight
+2x C Jump
+1x R Mahamoti Djinn
+1x C Merfolk of the Pearl Trident
+3x C Phantasmal Terrain
+1x U Phantom Monster
+2x C Power Leak
+1x C Power Sink
+1x C Psychic Venom
+1x C Sea Serpent
+2x C Spell Blast
+1x U Steal Artifact
+3x C Twiddle
+1x C Unsummon
+1x R Volcanic Eruption
+2x C Dark Ritual
+1x U Demonic Tutor
+2x C Drain Life
+5x C Drudge Skeletons
+1x U Evil Presence
+2x C Fear
+3x C Frozen Shade
+2x C Howl from Beyond
+4x C Paralyze
+2x C Pestilence
+2x C Plague Rats
+3x C Raise Dead
+2x U Sacrifice
+1x C Scathe Zombies
+1x U Scavenging Ghoul
+2x U Sengir Vampire
+3x C Terror
+2x U Wall of Bone
+1x R Warp Artifact
+2x C Weakness
+3x C Disintegrate
+1x U Dragon Whelp
+1x U Dwarven Demolition Team
+1x C Dwarven Warriors
+1x U Earth Elemental
+2x C Earthbind
+1x U Fire Elemental
+2x C Fireball
+2x C Firebreathing
+2x C Gray Ogre
+2x C Hill Giant
+3x C Hurloon Minotaur
+3x C Ironclaw Orcs
+2x C Lightning Bolt
+1x R Manabarbs
+2x C Mons's Goblin Raiders
+1x C Red Elemental Blast
+1x R Rock Hydra
+2x C Shatter
+3x U Stone Giant
+1x U Uthden Troll
+1x U Camouflage
+2x U Channel
+1x C Craw Wurm
+2x C Fog
+3x C Giant Growth
+2x C Giant Spider
+3x C Grizzly Bears
+1x U Hurricane
+1x U Ice Storm
+3x U Instill Energy
+1x C Ironroot Treefolk
+1x U Ley Druid
+1x R Living Artifact
+1x U Regrowth
+3x C Scryb Sprites
+1x C Shanodin Dryads
+4x C Stream of Life
+1x U Thicket Basilisk
+1x R Timber Wolves
+4x C Tranquility
+1x U Tsunami
+1x U Wanderlust
+2x C War Mammoth
+1x R Web
+1x C Wild Growth
+2x U Black Vise
+1x U Crystal Rod
+1x R Cyclopean Tomb
+1x U Glasses of Urza
+2x U Icy Manipulator
+1x U Iron Star
+1x R Kormus Bell
+2x U Library of Leng
+1x R Mox Jet
+1x R Mox Pearl
+1x U Obsianus Golem
+1x U Rod of Ruin
+1x U Sol Ring
+2x U Soul Net
+1x R Winter Orb
+1x R Bayou
+1x C Plains
+1x C Island
+1x C Swamp
+1x C Mountain
+3x C Mountain
+3x C Forest
+1x C Forest
+
